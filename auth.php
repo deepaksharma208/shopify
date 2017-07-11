@@ -7,8 +7,8 @@ use GuzzleHttp\Client;
 $dotenv = new Dotenv\Dotenv(__DIR__);
 $dotenv->load();
 
-$api_key = 'eee124821e6f72e520f9bb63eac1e6a5';
-$secret_key = '69c1bfa568489e8202490e017dc041ed';
+$api_key = 'kjhkjjhjhoi909xixeuox0990390';
+$secret_key = '983209x90x09d909didi90i0990diddi';
 
 $query = $_GET; 
 var_dump($query);
